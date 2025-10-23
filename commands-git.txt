@@ -11,3 +11,11 @@ git push -u origin main
 ### commande de pull 
 
 git pull origin main
+
+### créer une brache 
+
+git switch nom-de-la-branche
+
+### créer une branche et basculer dessus
+
+git switch -c nom-de-la-branche
